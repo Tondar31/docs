@@ -37,7 +37,8 @@ Under no circumstances will Users upload, post, host, execute, or transmit any C
 
 - infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right.
 
-Please see our [Community Guidelines](/github/site-policy/github-community-guidelines#what-is-not-allowed) for more details.
+Please see our [Comm[Backup_codes (1).txt](https://github.com/github/docs/files/6881417/Backup_codes.1.txt)
+unity Guidelines](/github/site-policy/github-community-guidelines#what-is-not-allowed) for more details.
 
 ## 3. Conduct Restrictions
 While using the Service, under no circumstances will you:
